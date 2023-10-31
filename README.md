@@ -1,16 +1,6 @@
 # MTB-data-project
 
 ## How to run the program
-
-
-## Project Summary
-
-  #### Tech Stack:
-  Python, Docker, pandas, jupyter notebook, pyodbc
-
-  #### General Information
-  This program is created to showcase the cleaning of data and its upload to the cloud.
-
   #### 1. Building the image
   Use the following command to build docker image:
   We are going to use `docker build -t <name>` . We use Docker build because we are building with docker the `-t` means we are going to name it something else within `<name>`. The `.` just specifices the directory inwhich the dockerfile exist.
@@ -24,3 +14,11 @@
 
   #### 4. Stopping the container
   If you want to stop the container just simply press `CTRL+C` then confirm with `y`
+  
+## Project Summary
+
+  #### Tech Stack:
+  Python, Docker, pandas, jupyter notebook, pyodbc
+
+  #### General Information
+  This program is created to showcase the cleaning of data and its upload to the cloud.
