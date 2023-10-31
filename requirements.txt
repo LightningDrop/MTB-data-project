@@ -1,0 +1,15 @@
+    ipython
+    ipykernel
+    ipywidgets
+    jupyter_client
+    jupyter_core
+    nbclient
+    nbconvert
+    nbformat
+    notebook
+    qtconsole
+    traitlets
+    pyodbc
+    pandas
+    seaborn
+    matplotlib
